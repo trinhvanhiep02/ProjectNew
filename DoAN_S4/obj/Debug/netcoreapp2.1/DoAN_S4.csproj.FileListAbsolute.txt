@@ -1,0 +1,98 @@
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.dll
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.Views.dll
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.csproj.CoreCompileInputs.cache
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.RazorAssemblyInfo.cache
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.RazorAssemblyInfo.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.AssemblyInfoInputs.cache
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.AssemblyInfo.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.TagHelpers.input.cache
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.TagHelpers.output.cache
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.RazorCoreGenerate.cache
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Edit.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Index.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Index.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.RazorTargetAssemblyInfo.cache
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.RazorTargetAssemblyInfo.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.dll
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.pdb
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.deps.json
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.runtimeconfig.json
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.runtimeconfig.dev.json
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.pdb
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.Views.pdb
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.Views.pdb
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.csproj.CopyComplete
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.csprojAssemblyReference.cache
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Edit.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Size\Index.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Size\Create.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Size\Edit.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\productFull.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Color\Index.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Color\Create.g.cshtml.cs
+C:\Users\Truongdoe\OneDrive\Desktop\ĐỒ án sem 4\DoAN_S4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Color\Edit.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.deps.json
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.runtimeconfig.json
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.dll
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.pdb
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.Views.dll
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\bin\Debug\netcoreapp2.1\DoAN_S4.Views.pdb
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.TagHelpers.input.cache
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.TagHelpers.output.cache
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Edit.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Color\Create.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Color\Edit.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Color\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Edit.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\productFull.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Size\Create.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Size\Edit.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Size\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.Views.pdb
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.dll
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.pdb
+C:\Users\Admin\Desktop\BTLMongodb\DoAnSem4\DoAN_S4\obj\Debug\netcoreapp2.1\DoAN_S4.csproj.CopyComplete

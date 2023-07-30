@@ -1,0 +1,96 @@
+﻿@model IEnumerable<DoAN_S4.Models.DataModel.Color>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Bảng Màu</h1>
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Danh sách Bảng Màu</h6>
+        </div>
+
+        <div class="page-header row" style="padding-top:10px">
+            <div class="col-md-12" style="display: flex;">
+                <form action="" method="get" class="form-inline ml-lg-auto">
+                    <div class="form-group">
+                        <label class="sr-only" for="">label</label>
+                        <input class="form-control" name="name" placeholder="Search" value="">
+                    </div>
+                    <button type="submit" class="btn btn-icon btn-default mr-1"><i class="fas fa-check"> </i></button>
+                </form>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th class="text-center align-middle">#</th>
+                            <th class="text-center align-middle">Name</th>
+                            <th class="text-center align-middle">Status</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="text-center align-middle" scope="row"> @Html.DisplayFor(modelItem => item._id)</td>
+                                <td class="text-center align-middle" scope="row"> @Html.DisplayFor(modelItem => item.ColorName)</td>
+                                <td class="text-center align-middle">
+                                    @if (item.Status)
+                                    {
+                                        <span>True</span>
+                                    }
+                                    else
+                                    {
+                                        <span>False</span>
+
+                                    }
+                                </td>
+                                <td style="text-align: center; padding-top: 30px;">
+                                    <a asp-action="Edit" asp-area="Admin" asp-controller="Color" asp-route-id="@item._id">
+                                        <i class="fas fa-info-circle"></i>
+                                    </a>
+                                </td>
+                                <td style="text-align: center; padding-top: 30px;">
+                                    <a asp-action="Delete" asp-area="Admin" asp-controller="Color" asp-route-id="@item._id" onclick="return confirm('Are you sure ?')">
+                                        <i class="fas fa-trash"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <p>
+                    Trang :
+                    @for (int i = 1; i < ViewBag.totalpage; i++)
+                    {
+                        if (i == (int)ViewBag.page)
+                        {
+                            <span>@i</span>
+                        }
+                        else if (ViewBag.name != null)
+                        {
+                            <a href="?page=@i&name=@ViewBag.name">@i</a>
+                        }
+                        else
+                        {
+                            <a href="?page=@i">@i</a>
+                        }
+                    }
+                </p>
+            </div>
+        </div>
+    </div>
+
+</div>
