@@ -1,4 +1,5 @@
-﻿using DoAN_S4.Models.DataModel;
+﻿using DoAN_S4.Areas.Admin.Models.ViewModel;
+using DoAN_S4.Models.DataModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,7 @@ namespace DoAN_S4.Areas.Admin.Models.BussinesModel.IRepository
     {
         List<Comment> Paging(int page, int pagesize, out long totalpage);
         List<Comment> SearchPaging(string name, int page, int pagesize, out long totalpage);
+        List<CommentViewModel> GetCommentFull();
         
     }
 }

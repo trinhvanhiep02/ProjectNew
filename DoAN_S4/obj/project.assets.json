@@ -12999,23 +12999,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\ONG TRUM HACKER\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\BTLMongodb\\DoAnSem4\\DoAN_S4\\DoAN_S4.csproj",
+      "projectUniqueName": "C:\\Users\\ONG TRUM HACKER\\OneDrive\\Desktop\\Project\\DoAnSem4\\ProjectNew\\DoAN_S4\\DoAN_S4.csproj",
       "projectName": "DoAN_S4",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\BTLMongodb\\DoAnSem4\\DoAN_S4\\DoAN_S4.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\BTLMongodb\\DoAnSem4\\DoAN_S4\\obj\\",
+      "projectPath": "C:\\Users\\ONG TRUM HACKER\\OneDrive\\Desktop\\Project\\DoAnSem4\\ProjectNew\\DoAN_S4\\DoAN_S4.csproj",
+      "packagesPath": "C:\\Users\\ONG TRUM HACKER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ONG TRUM HACKER\\OneDrive\\Desktop\\Project\\DoAnSem4\\ProjectNew\\DoAN_S4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ONG TRUM HACKER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
